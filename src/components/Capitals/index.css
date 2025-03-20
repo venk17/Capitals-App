@@ -1,0 +1,47 @@
+.app-container {
+  background-color: #f8fafc;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.capitals-container {
+  background-color: #93c5fd;
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.heading {
+  color: #1e293b;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.dropdown-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.dropdown {
+  padding: 8px 12px;
+  font-size: 16px;
+  border: 2px solid #cbd2d9;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+.description {
+  color: #323f4b;
+  font-size: 18px;
+}
+
+.country-name {
+  color: #000000;
+  font-size: 22px;
+}
